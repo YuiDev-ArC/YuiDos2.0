@@ -1,9 +1,9 @@
-Program do dosowania małych serwerów oraz hostów.
+A program for adding small servers and hosts.
 
-Wyszystko upublicznione w celach naukowych na platforme operacyjną linux.
+Highly published for scientific purposes on the linux operating platform.
 
 
-Komendy obsługowe:
+Service Commands:
 
 
 git clone https://github.com/YuiDev-ArC/YuiDos2.0.git
@@ -12,6 +12,6 @@ cd YuiDos2.0
 
 python3 YuiDos.py
 
-python3 YuiDos.py -s [ip do dosu]
+python3 YuiDos.py -s [dosu ip]
 
-Ctrl+C żeby zakończyć działanie
+Ctrl+C in order to complete the operation
