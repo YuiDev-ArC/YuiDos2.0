@@ -1,3 +1,5 @@
+Program by https://www.yuidevcompany.com/
+
 A program for adding small servers and hosts.
 
 Highly published for scientific purposes on the linux operating platform.
