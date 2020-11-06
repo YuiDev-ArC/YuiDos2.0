@@ -14,6 +14,6 @@ cd YuiDos2.0
 
 python3 YuiDos.py
 
-python3 YuiDos.py -s [dosu ip]
+python3 YuiDos.py -s [dos ip]
 
 Ctrl+C in order to complete the operation
