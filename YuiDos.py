@@ -2,8 +2,10 @@
 # -*- coding: utf-8 -*-
 
 
-#                                                                                                           
-#                                                                                                           
+                                                                                                    
+# python 3.3.2+ Yui Dos Script v.2.0
+# by YuiDev
+# only for legal purpose
 #                                       ,---,                                        ,----,      ,----..    
 #        ,---,                ,--,    .'  .' `\                                    .'   .' \    /   /   \   
 #       /_ ./|         ,--, ,--.'|  ,---.'     \    ,---.                        ,----,'    |  /   .     :  
@@ -17,10 +19,6 @@
 #      :  \  \:  ,      .-./;  :    ;   :  .'      `----'  '--'.     /         |   :    .'/  .\;   :    /   
 #       \  ' ; `--`----'    |  ,   /|   ,.'                  `--'---'          ;   | .'   \  ; |\   \ .'    
 #        `--`                ---`-' '---'                                      `---'       `--"  `---`      
-                                                                                                         
-# python 3.3.2+ Yui Dos Script v.2.0
-# by YuiDev
-# only for legal purpose
 
 
 from queue import Queue
