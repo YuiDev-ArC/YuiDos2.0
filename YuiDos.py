@@ -3,7 +3,7 @@
 
 
                                                                                                     
-# python 3.3.2+ Yui Dos Script v.2.0
+# python 3.9.1+ Yui Dos Script v.2.0
 # by YuiDev
 # only for legal purpose
 #                                       ,---,                                        ,----,      ,----..    
@@ -104,13 +104,9 @@ def usage():
 #      :  \  \:  ,      .-./;  :    ;   :  .'      `----'  '--'.     /         |   :    .'/  .\;   :    /   
 #       \  ' ; `--`----'    |  ,   /|   ,.'                  `--'---'          ;   | .'   \  ; |\   \ .'    
 #        `--`                ---`-' '---'                                      `---'       `--"  `---`      
-	It is the end user's responsibility to obey all applicable laws.
-	It is just for server testing script. Your ip is visible. \n
-	usage : python3 YuiDos.py [-s] [-p] [-t]
-	-h : help
-	-s : server ip
-	-p : port default 80
-	-t : turbo default 135 \033[0m''')
+	 \n
+	usage : python3 YuiDos.py [-s]
+	-s : server ip \033[0m''')
 	sys.exit()
 
 
