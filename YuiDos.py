@@ -3,7 +3,7 @@
 
 
                                                                                                     
-# python 3.9.1+ Yui Dos Script v.2.0
+# python 3.3.1+ Yui Dos Script v.2.0
 # by YuiDev
 # only for legal purpose
 #                                       ,---,                                        ,----,      ,----..    
